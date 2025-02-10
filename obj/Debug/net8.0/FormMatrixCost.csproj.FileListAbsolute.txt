@@ -1,0 +1,14 @@
+/Users/syedqadri/Documents/dev/FormMatrixCost/bin/Debug/net8.0/FormMatrixCost
+/Users/syedqadri/Documents/dev/FormMatrixCost/bin/Debug/net8.0/FormMatrixCost.deps.json
+/Users/syedqadri/Documents/dev/FormMatrixCost/bin/Debug/net8.0/FormMatrixCost.runtimeconfig.json
+/Users/syedqadri/Documents/dev/FormMatrixCost/bin/Debug/net8.0/FormMatrixCost.dll
+/Users/syedqadri/Documents/dev/FormMatrixCost/bin/Debug/net8.0/FormMatrixCost.pdb
+/Users/syedqadri/Documents/dev/FormMatrixCost/obj/Debug/net8.0/FormMatrixCost.GeneratedMSBuildEditorConfig.editorconfig
+/Users/syedqadri/Documents/dev/FormMatrixCost/obj/Debug/net8.0/FormMatrixCost.AssemblyInfoInputs.cache
+/Users/syedqadri/Documents/dev/FormMatrixCost/obj/Debug/net8.0/FormMatrixCost.AssemblyInfo.cs
+/Users/syedqadri/Documents/dev/FormMatrixCost/obj/Debug/net8.0/FormMatrixCost.csproj.CoreCompileInputs.cache
+/Users/syedqadri/Documents/dev/FormMatrixCost/obj/Debug/net8.0/FormMatrixCost.dll
+/Users/syedqadri/Documents/dev/FormMatrixCost/obj/Debug/net8.0/refint/FormMatrixCost.dll
+/Users/syedqadri/Documents/dev/FormMatrixCost/obj/Debug/net8.0/FormMatrixCost.pdb
+/Users/syedqadri/Documents/dev/FormMatrixCost/obj/Debug/net8.0/FormMatrixCost.genruntimeconfig.cache
+/Users/syedqadri/Documents/dev/FormMatrixCost/obj/Debug/net8.0/ref/FormMatrixCost.dll
