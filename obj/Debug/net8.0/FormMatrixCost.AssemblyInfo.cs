@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FormMatrixCost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5c407e11a6661afab547c0df17582ad08818755f")]
 [assembly: System.Reflection.AssemblyProductAttribute("FormMatrixCost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FormMatrixCost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
